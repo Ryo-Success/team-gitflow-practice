@@ -1,3 +1,3 @@
-"# �`�[���J�����K" 
-"Alice �̕ύX" 
-"Alice �̕ύX" 
+# チーム開発練習
+Alice の変更
+Bob の変更
