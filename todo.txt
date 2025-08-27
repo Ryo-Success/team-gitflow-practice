@@ -6,4 +6,4 @@
 - Write unit tests
 - Write integration tests
 - Virtual Git Repositry project
-- Virtual Repositry project
+- Virtual Repositry project"Task14: Implement new feature"
