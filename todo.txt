@@ -3,3 +3,4 @@
 - Create a small sample project
 - Write documentation
 - Add task: Improve README with usage examples
+- Write unit tests
