@@ -1,3 +1,4 @@
 - Review Git Flow tutorial
 - Practice Git merge and rebase
 - Create a small sample project
+- Write documentation
