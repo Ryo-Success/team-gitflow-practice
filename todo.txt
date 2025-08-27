@@ -5,3 +5,4 @@
 - Add task: Improve README with usage examples
 - Write unit tests
 - Write integration tests
+- Virtual Git Repositry project
