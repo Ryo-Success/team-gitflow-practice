@@ -8,3 +8,5 @@ New Featureの追加
 - Practice Git merge and rebase
 - Create a small sample project
 - Add task: Improve README with usage examples
+
+#Hotfix Bug
