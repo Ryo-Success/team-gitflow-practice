@@ -6,3 +6,4 @@
 - Write unit tests
 - Write integration tests
 - Virtual Git Repositry project
+- Virtual Repositry project
