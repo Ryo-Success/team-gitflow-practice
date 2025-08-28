@@ -11,3 +11,5 @@
 ## v1.6.0
 - Add feature 14
 - Minor fixes
+
+## v1.7.0
