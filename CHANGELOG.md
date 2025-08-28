@@ -18,3 +18,7 @@
 
 ## v1.8.0
 - Release Flow Project
+
+## v1.9.0
+- Changing fixes
+- Implement new feature
