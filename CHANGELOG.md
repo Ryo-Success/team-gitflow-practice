@@ -15,3 +15,6 @@
 ## v1.7.0
 
 ## v1.7.1
+
+## v1.8.0
+- Release Flow Project
