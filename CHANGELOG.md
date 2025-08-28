@@ -22,3 +22,7 @@
 ## v1.9.0
 - Changing fixes
 - Implement new feature
+
+## v1.10.0
+- Implement new feature
+- Repair fixes
